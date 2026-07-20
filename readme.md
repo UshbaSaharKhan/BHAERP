@@ -1,7 +1,7 @@
 # BHA ERP
 
 ## Overview
-BHA ERP is a comprehensive Enterprise Resource Planning (ERP) system designed to streamline and automate core business operations.
+BHA ERP is a client comprehensive Enterprise Resource Planning (ERP) system designed to streamline and automate core business operations.
 The platform integrates multiple business functions into a single system, improving operational efficiency, data accuracy, and decision-making.
 
 ## Features
